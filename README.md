@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=chenchen0103&project=ACEBench&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=chenchen0103&project=ACEBench&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=chenchen0103&project=ACEBench&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=chenchen0103&project=ACEBench&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=chenchen0103&project=ACEBench&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=chenchen0103&project=ACEBench&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=chenchen0103&project=ACEBench&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=chenchen0103&project=ACEBench&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=chenchen0103&project=ACEBench&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=chenchen0103&project=ACEBench&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=chenchen0103&project=ACEBench&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=chenchen0103&project=ACEBench&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=chenchen0103&project=ACEBench&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=chenchen0103&project=ACEBench&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=chenchen0103&project=ACEBench&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=chenchen0103&project=ACEBench&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=chenchen0103&project=ACEBench&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=chenchen0103&project=ACEBench&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=chenchen0103&project=ACEBench&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=chenchen0103&project=ACEBench&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=chenchen0103&project=ACEBench&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 # ACEBench: Who Wins the Match Point in Tool Usage?
 
 <p align="center">
